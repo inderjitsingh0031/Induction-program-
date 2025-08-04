@@ -1,3 +1,5 @@
 # Induction-program-
 Inderjit singh E.C.E
-GNDEC
+GNDEC 
+#Day 1 
+#Day 2 
